@@ -27,6 +27,8 @@ jman [version]
 jman install [version]
 ```
 
+**After running the command 'jman [version]', if you want to check if the version is actually set, open another cmd**
+
 # Installation & Setup
 1️⃣ **Clone this repository**
 ```bash
