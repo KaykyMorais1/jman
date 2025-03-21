@@ -1,4 +1,4 @@
-# jman - V1.0.0
+# jman - v1.0.0
 # JMan - Java Version Manager
 JMan is a simple and efficient tool for managing Java versions on Windows systems. It allows developers to easily switch between different JDK versions directly from the terminal.
 
