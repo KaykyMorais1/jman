@@ -26,14 +26,3 @@ Usage:
 
 # Installation:
 JMan requires winget for Java version installation. Ensure that winget is installed and available on your system. If not, you can download and install it from here.
-
-Example:
-
-# List all installed Java versions
-jman ls
-
-# Set Java 11 as the active version
-jman 11
-
-# Install OpenJDK 17
-jman install 17
