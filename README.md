@@ -45,6 +45,8 @@ To use JMan from any terminal, you need to add its directory to the system PATH:
 
 **Make sure that `winget` is installed**
 
+**The script will not work if Java is not installed in the default paths, e.g. C:\Program Files\Java, C:\Program Files\Microsoft**
+
 # Release notes
 
 ### v1.0.0
