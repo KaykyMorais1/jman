@@ -10,7 +10,7 @@ JMan is a simple and efficient tool for managing Java versions on Windows system
 - Install Java Versions: Automatically install missing Java versions using winget.
 
 - Flexible: Works with both manual and winget-installed Java versions.
-- 
+
 Usage:
 - List Installed Versions:
 jman ls
