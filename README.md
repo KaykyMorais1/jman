@@ -13,22 +13,18 @@ JMan is a simple and efficient tool for managing Java versions on Windows system
 
 Usage:
 - List Installed Versions:
-jman ls
-- Displays all the installed Java versions on your system.
+**jman ls**
 
 - Show Active Java Version:
-jman current
-- Displays the currently active Java version.
+**jman current**
 
 - Set a Java Version:
-jman [version]
-- Sets the specified Java version as the active one.
+**jman [version]**
 
 - Install a Java Version:
-jman install [version]
-Installs a specific Java version if it's not already installed.
+**jman install [version]**
 
-Installation:
+# Installation:
 JMan requires winget for Java version installation. Ensure that winget is installed and available on your system. If not, you can download and install it from here.
 
 Example:
