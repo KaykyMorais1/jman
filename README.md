@@ -30,18 +30,7 @@ jman install [version]
 **After running the command 'jman [version]', if you want to check if the version is actually set, open another cmd**
 
 # Installation & Setup
-1️⃣ **Clone this repository**
-```bash
-git clone https://github.com/KaykyMorais1/jman.git
-```
-
-2️⃣ **Add JMan to the System PATH**
-
-To use JMan from any terminal, you need to add its directory to the system PATH:
-
-- Move jman.bat to a permanent location `(e.g., C:\jman\)`.
-- Add `C:\jman\` to the Windows PATH environment variable
-- Restart your terminal to apply the changes.
+1️⃣ **[Download Jman Installer](https://github.com/KaykyMorais1/jman/releases/download/v1.0.0/jmanInstaller.exe)**
 
 **Make sure that `winget` is installed**
 
